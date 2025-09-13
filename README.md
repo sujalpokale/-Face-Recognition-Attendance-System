@@ -1,7 +1,5 @@
 ﻿# Face-Recognition-Attendance-System
 
-![Face Recognition Attendance System](https://github.com/sujalpokale/-Face-Recognition-Attendance-System/blob/main/static/images/attendance_system_banner.jpg)
-
 ## 📝 Overview
 
 The **Face Recognition Attendance System** is a Python-based application designed to automate the process of recording attendance using facial recognition technology. This system leverages the `face_recognition` library and OpenCV to identify individuals and mark their attendance in real-time. It's ideal for educational institutions, workplaces, or any environment where efficient and accurate attendance tracking is required.
@@ -59,3 +57,4 @@ Browse through the list of recorded attendance entries.
 - SQLite
 - NumPy
 - Pillow
+
